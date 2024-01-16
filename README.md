@@ -1,1 +1,3 @@
 # isSortedarray
+
+solving by recursion
